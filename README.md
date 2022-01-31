@@ -36,7 +36,7 @@ This motivation for this project is to find patterns in data by using seaborn fo
 
  2. lineplot : Lineplot is used to derive the correlation between two numerical variables using a line.
 
- 3. regplot : regplot is essentially a scatterplot with a reression line through it.
+ 3. regplot : regplot is essentially a scatterplot with a regression line through it.
 
  4. Barplot(Categorial variables) : Barplot aggregates categorial variables of the dataset based on summary static such as mean. The static can be changed to min, max, median using the estimator attribute. The length of each bar depicts the value of the static being calculated. The error bars give an indication of uncertainity around the estimate.
 
@@ -44,7 +44,7 @@ This motivation for this project is to find patterns in data by using seaborn fo
 
  6. Jointplot : Jointplot comprises of 3 plot : one bivariate plot that depicts the relationship between the two variables and two univariate plots that depict the distribution of the two variables.
 
- 7. Pairplot : Pairplot depicts pairwise relationships in the datasets. It creates a axes wherein each continous variable is shared acorss the x-axis and y-axis. The diagonal plots are the univariate distributions of the variable, while the rest depict the bivariate distribution.
+ 7. Pairplot : Pairplot depicts pairwise relationships in the datasets. It creates a axes wherein each continous variable is shared across the x-axis and y-axis. The diagonal plots are the univariate distributions of the variable, while the rest depict the bivariate distribution.
 
 ## Conclusions/helpful findings from the project:
  The main aim of the project was to derive insights from the weather dataset. From the data visualisation, following findings were found:
