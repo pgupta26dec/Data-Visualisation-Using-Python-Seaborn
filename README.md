@@ -1,7 +1,7 @@
 
 # Data Visualisation using Python Seaborn
 
-This motivation for this project is to find patterns in data by using seaborn for data visualisation. A dataset
+This motivation for this project is to find patterns in data by using seaborn for data visualisation.
 
 ## What is Seaborn ?
 
